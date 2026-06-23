@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kiwicat
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning modding
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me never
+- 👀 I’m interested in gaming and math
+- 🌱 I’m currently learning glsl and linear algebra
+- 💞️ I’m looking to collaborate on mc modding
+- 📫 How to reach me: kiwicat@kiwicat.cat
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: hi
 
